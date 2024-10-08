@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Actividad 11 - Ejercicios de Recursividad e Iteración (C++, C# y Python)", "Actividad 11 - Ejercicios de Recursividad e Iteración (C++, C# y Python)\Actividad 11 - Ejercicios de Recursividad e Iteración (C++, C# y Python).pyproj", "{2B306F3B-BA3F-46E7-871E-824CE5F06190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B306F3B-BA3F-46E7-871E-824CE5F06190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B306F3B-BA3F-46E7-871E-824CE5F06190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B2CD952-1171-4010-BCB8-02E87A6A9885}
+	EndGlobalSection
+EndGlobal
